@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/premium-photo/top-view-autumn-workspace-with-copying-area-laptops-office-supplies-leaves_512343-304.jpg?w=1000&h=400&fit=crop)
+![logo](https://github.com/BTECH75/BTECH75/blob/main/1000108000-02.jpeg?w=1000&h=400&fit=crop)
    <h1 align="center">Hi 👋, I'm MUDIT SAXENA</h1>
   <h3 align="center">A passionate frontend developer from India</h3>
   
